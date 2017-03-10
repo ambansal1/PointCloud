@@ -1,0 +1,8 @@
+prefix=/home/amit/catkin_ws1/install
+
+Name: kf_tracker
+Description: Description of kf_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amit/catkin_ws1/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/amit/catkin_ws1/install
+
+Name: laser_geometry
+Description: Description of laser_geometry
+Version: 1.6.4
+Cflags: -I/home/amit/catkin_ws1/install/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/amit/catkin_ws1/install/lib -llaser_geometry -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: 

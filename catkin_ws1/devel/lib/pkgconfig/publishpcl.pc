@@ -1,0 +1,8 @@
+prefix=/home/amit/catkin_ws1/devel
+
+Name: publishpcl
+Description: Description of publishpcl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amit/catkin_ws1/devel/lib 
+Requires: 

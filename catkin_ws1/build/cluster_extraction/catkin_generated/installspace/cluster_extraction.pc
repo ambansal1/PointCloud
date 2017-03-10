@@ -1,0 +1,8 @@
+prefix=/home/amit/catkin_ws1/install
+
+Name: cluster_extraction
+Description: Description of cluster_extraction
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amit/catkin_ws1/install/lib 
+Requires: 
